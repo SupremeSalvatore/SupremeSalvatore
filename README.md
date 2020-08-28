@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Milos Poskurica | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="supremesalvatore.github.io/SalvatoreDev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="SupremeSalvatore | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
+[<img align="left" alt="Milos Poskurica | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="supremesalvatore.github.io/SalvatoreDev" src="https://img.shields.io/badge/Website-%2092E20.svg?&style=for-the-badge&logo=icloud&logoColor=white" />][website]
+[<img align="left" alt="SupremeSalvatore | Steam" src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />][steam]
 
 <br />
 

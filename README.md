@@ -29,7 +29,7 @@
 <code><img height="45" src="https://api.iconify.design/logos:ubuntu.svg" alt="Ubuntu"></code>
 <code><img height="45" src="https://api.iconify.design/logos:postman.svg" alt="Postman"></code>
 <code><img height="45" src="https://api.iconify.design/bi:terminal.svg" alt="Terminal"></code>
-<code><img height="45" src="https://api.iconify.design/logos:git.svg" alt="Git"></code>
+<code><img height="45" src="https://api.iconify.design/logos:git-icon.svg" alt="Git"></code>
 <code><img height="45" src="https://api.iconify.design/logos-yarn.svg" alt="Yarn"></code>
 
 <br>

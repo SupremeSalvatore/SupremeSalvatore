@@ -3,7 +3,7 @@
 ## I'm a Front-End Developer!
 
 - 🔭 I’m currently working on a [Zendesk Marketplace Apps][zendesk]!
-- 🌱 I’m currently learning everything about MEVN Stack
+- 🌱 I’m currently learning everything about JAM Stack.
 - 👯 I’m looking to collaborate with other Vue developers
 - 2021 Goals: Finally master front-end full circuit
 - ⚡ Fun fact: I am playing Dota 2
@@ -22,6 +22,7 @@
 <code><img height="45" src="https://api.iconify.design/logos:vue.svg" alt="Vue"></code>
 <code><img height="45" src="https://api.iconify.design/logos:vuetifyjs.svg" alt="Vuetify"></code>
 <code><img height="45" src="https://api.iconify.design/logos:gridsome-icon.svg" alt="Gridsome"></code>
+<code><img height="45" src="https://api.iconify.design/logos:nuxt-icon.svg" alt="Gridsome"></code>
 <code><img height="45" src="https://api.iconify.design/logos:bootstrap.svg" alt="Bootstrap"></code>
 <code><img height="45" src="https://api.iconify.design/logos:sass.svg" alt="Sass"></code>
 <code><img height="45" src="https://api.iconify.design/logos:markdown.svg" alt="Markdown"></code>

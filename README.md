@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on a [Zendesk Marketplace Apps][zendesk]!
 - 🌱 I’m currently learning everything about JAM Stack.
 - 👯 I’m looking to collaborate with other Vue developers
-- 2021 Goals: Finally master front-end full circuit
-- ⚡ Fun fact: I am playing Dota 2
+- 2022 Goals: Vue3, Typescript, TailwindCSS, Storybook
+- ⚡ Fun fact: Proud Owner of [Izletijada](izletijada)
 
 ### Connect with me:
 
@@ -18,11 +18,14 @@
 
 ### Languages and Tools:
 
+<code><img height="45" src="https://www.izletijada.rs/assets/static/izletijada-196x196.75cf015.5c593ccf68589b726d32dba60018b8c6.png" alt="Izletijada"></code>
 <code><img height="45" src="https://api.iconify.design/logos:javascript.svg" alt="Javascript"></code>
 <code><img height="45" src="https://api.iconify.design/logos:vue.svg" alt="Vue"></code>
 <code><img height="45" src="https://api.iconify.design/logos:vuetifyjs.svg" alt="Vuetify"></code>
-<code><img height="45" src="https://api.iconify.design/logos:gridsome-icon.svg" alt="Gridsome"></code>
 <code><img height="45" src="https://api.iconify.design/logos:nuxt-icon.svg" alt="Gridsome"></code>
+<code><img height="45" src="https://api.iconify.design/logos:tailwindcss-icon.svg" alt="Tailwind"></code>
+<code><img height="45" src="https://api.iconify.design/logos:gridsome-icon.svg" alt="Gridsome"></code>
+<code><img height="45" src="https://api.iconify.design/logos:jest.svg" alt="Gridsome"></code>
 <code><img height="45" src="https://api.iconify.design/logos:bootstrap.svg" alt="Bootstrap"></code>
 <code><img height="45" src="https://api.iconify.design/logos:sass.svg" alt="Sass"></code>
 <code><img height="45" src="https://api.iconify.design/logos:markdown.svg" alt="Markdown"></code>
@@ -40,3 +43,4 @@
 [website]: https://supremesalvatore.github.io/SalvatoreDev/
 [zendesk]: https://www.zendesk.com/apps/directory/?q=&idx=appsIndex&p=0&hFR%5Bproducts%5D%5B0%5D=support
 [steam]: https://steamcommunity.com/id/supremesalvatore/
+[izletijada]: https://www.izletijada.rs/
